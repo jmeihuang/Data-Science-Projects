@@ -1,3 +1,3 @@
-SDS Miniproject
+SDS MiniprojectM
 
 Partners: Hana Hirano and Chhiring Lama
